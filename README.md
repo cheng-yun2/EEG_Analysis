@@ -15,7 +15,7 @@
 
 ### PyTorch
 
-- **版本**: 2.6.1
+- **版本**: 2.4.1
 - **安装说明**: 使用 [PyTorch 官方安装指南](https://pytorch.org/get-started/locally/) 进行安装，以确保兼容性和性能优化。或者参考 [CSDN 安装教程](https://blog.csdn.net/weixin_46334272/article/details/135307663)。
 
 ## 环境搭建
